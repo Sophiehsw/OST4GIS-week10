@@ -64,3 +64,15 @@ you (you don't necessarily have to fully understand what they're for,
 this is a chance for you to get our help interpreting a technology's
 purpose/usage).
 
+## Sophie Wu's Final Project Proposal
+
+My final project will be built on my midterm project. First, I will keep my first four pages
+and delete the last page. Next, I will add an animated map on the fifth page to show changes
+of the median home sales price from 2010 to 2017 by census tract. Then, on the sixth page, a
+map will be shown based on the predicted home sales price. Some interactive features will be
+included in this page. Here are some potential interactive features:
+1. If users select a few areas that they are particularly interested in, the app can generate
+a comparison table that contains major information of those areas, such as monetary rental
+income, annual rental rate of return, crime rate, public transportation accessibility,
+school district....
+2. Users could apply the filter function to discover areas based on users' criteria.
